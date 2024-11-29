@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AI.structure.Common", "Common\AI.structure.Common\AI.structure.Common.csproj", "{32330383-531A-4271-9331-930FF88CACAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{546BDA81-8148-4899-857B-F0CFCB0EC9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32330383-531A-4271-9331-930FF88CACAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32330383-531A-4271-9331-930FF88CACAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32330383-531A-4271-9331-930FF88CACAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32330383-531A-4271-9331-930FF88CACAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32330383-531A-4271-9331-930FF88CACAA} = {546BDA81-8148-4899-857B-F0CFCB0EC9F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EA9DB28-3EF4-4ED8-823D-88B04400FB35}
+	EndGlobalSection
+EndGlobal
